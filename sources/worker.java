@@ -49,4 +49,3 @@ public class Worker {
         }
     }
 }
-Contact GitHub API Training Shop Blog About
